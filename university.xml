@@ -1,0 +1,62 @@
+<?java.xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<root>
+    <name>BSUIR</name>
+    <location>Minsk</location>
+    <university>
+        <student>
+            <name>Alex</name>
+            <surName>Khristoforov</surName>
+            <date>1996-10-25</date>
+            <averageScore>7.1</averageScorefaculty>
+            <group>pay</group>
+            <faculty>csan</faculty>
+        </student>
+        <student>
+            <name>Alex1</name>
+            <surName>Khristoforov1</surName>
+            <date>1996-10-25</date>
+            <averageScore>6.1</averageScorefaculty>
+            <group>pay</group>
+            <faculty>csan</faculty>
+        </student>
+         <student>
+            <name>Alex2</name>
+            <surName>Khristoforov2</surName>
+            <date>1996-10-25</date>
+            <averageScore>7.0</averageScorefaculty>
+            <group>state</group>
+            <faculty>csan</faculty>
+        </student> 
+        <student>
+            <name>Alex3</name>
+            <surName>Khristoforov3</surName>
+            <date>1996-10-25</date>
+            <averageScore>6.7</averageScorefaculty>
+            <group>pay</group>
+            <faculty>ct</faculty>
+        </student> 
+        <student>
+            <name>Alex4</name>
+            <surName>Khristoforov4</surName>
+            <date>1996-10-25</date>
+            <averageScore>7.1</averageScorefaculty>
+            <group>pay</group>
+            <faculty>ct</faculty>
+        </student> 
+        <student>
+            <name>Alex5</name>
+            <surName>Khristoforov5</surName>
+            <date>1996-10-25</date>
+            <averageScore>8.1</averageScorefaculty>
+            <group>state</group>
+            <faculty>ct</faculty>
+        </student>
+    </university>
+</root>
