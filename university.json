@@ -1,0 +1,54 @@
+{
+  "name": "BSUIR",
+  "location": "Minsk",
+  "students": [
+    {
+      "name": "Alex1",
+      "surname": "Khristoforov1",
+      "date": "1996-10-25",
+      "averagescore": 7.1,
+      "group": "pay",
+      "faculty": "csan"
+    },
+    {
+      "name": "Alex1",
+      "surname": "Khristoforov1",
+      "date": "1996-10-25",
+      "averagescore": 6.1,
+      "group": "state",
+      "faculty": "csan"
+    },
+    {
+      "name": "Alex2",
+      "surname": "Khristoforov2",
+      "date": "1996-10-25",
+      "averagescore": 7.0,
+      "group": "state",
+      "faculty": "csan"
+    },
+    {
+      "name": "Alex3",
+      "surname": "Khristoforov3",
+      "date": "1996-10-25",
+      "averagescore": 6.7,
+      "group": "pay",
+      "faculty": "ct"
+    },
+    {
+      "name": "Alex4",
+      "surname": "Khristoforov4",
+      "date": "1996-10-25",
+      "averagescore": 7.1,
+      "group": "pay",
+      "faculty": "ct"
+    },
+    {
+       "name": "Alex5",
+      "surname": "Khristoforov5",
+      "date": "1996-10-25",
+      "averagescore": 8.1,
+      "group": "state",
+      "faculty": "ct"
+    }
+  ]
+}
